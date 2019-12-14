@@ -8,4 +8,8 @@ print('add config list')
 print('fi config list')
 print('add config list')
 print('fi config list')
+print('test')
+print('test list')
+print('display result')
+print('return result')
 
