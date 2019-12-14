@@ -1,3 +1,3 @@
 print('Website ban hang online')
-print('add frontend')
+print('add frontend template')
 
