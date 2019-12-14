@@ -5,4 +5,5 @@ print('add show product')
 print('show list')
 print('show list')
 print('add config list')
+print('fi config list')
 
