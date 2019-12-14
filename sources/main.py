@@ -6,4 +6,6 @@ print('show list')
 print('show list')
 print('add config list')
 print('fi config list')
+print('add config list')
+print('fi config list')
 
