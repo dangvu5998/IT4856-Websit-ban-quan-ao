@@ -11,5 +11,7 @@ print('fi config list')
 print('test')
 print('test list')
 print('display result')
-print('return result')
+print('show list')
+print('show list')
+
 
